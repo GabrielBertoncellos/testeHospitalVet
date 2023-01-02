@@ -1,0 +1,18 @@
+.servicos {
+    display: flex;
+    margin-top: 5rem;
+    
+}
+.texto {
+    font-size: 18px;
+    padding-left: 10px;
+    font-family: 'Space Grotesk';
+    line-height: 2em;
+    text-align: justify;
+    position: relative;
+    left: 1em;
+}
+.servicos__imagem {
+    text-align: end;
+    width: 70%;
+}

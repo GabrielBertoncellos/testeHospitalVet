@@ -1,0 +1,30 @@
+header{
+    background-color: #FFB9B9;
+    opacity: 80%;
+    padding: 8px 0;
+    margin: 8px 0;
+}
+
+.lista__cabecalho {
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    color: #f5e7eb;
+    font-family: 'Space Grotesk';
+    padding: 1em;
+    
+}
+
+.lista_item:hover {
+    text-decoration: underline;
+    color: aliceblue;
+    transition: 0.5s;
+}
+.logo__lista {
+    
+    width: 8%;
+}

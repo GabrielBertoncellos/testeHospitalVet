@@ -1,0 +1,18 @@
+.bio {
+    display: flex;
+    margin: 1em ;
+
+}
+.texto__bio {
+    font-size: 18px;
+    padding-left: 10px;
+    font-family: 'Space Grotesk';
+    line-height: 2em;
+    text-align: justify;
+    margin: 1em;
+    padding: 2em;
+}
+.logo__bio {
+    text-align: end;
+    width: 100%;
+}

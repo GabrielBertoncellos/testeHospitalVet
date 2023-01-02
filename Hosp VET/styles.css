@@ -1,0 +1,12 @@
+@import url("./css/header.css");
+@import url("./css/banner.css");
+@import url("./css/servicos.css");
+@import url("./css/bio.css");
+@import url("./css/convenio.css");
+
+body{
+    font-family: 'Space Grotesk';
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #ffe1e17a;
+}
